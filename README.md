@@ -5,6 +5,7 @@ Hello World!
 -----------------
 Installed with the Debian LiveDVD image.
 
+	Thinkpad X1 Carbon
 	quaternian@slimjim.nowhere.network
 	15G Swap on sda5
 	30G root on sda6
@@ -16,7 +17,3 @@ Installed VLC and some movies for watching
 	$ cp /media/Videos/* ~/Videos
 
 Set up github and do hello-world walkthrough
-
-
-
-	
