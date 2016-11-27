@@ -16,4 +16,7 @@ Installed VLC and some movies for watching
 	# apt-get install vlc
 	$ cp /media/Videos/* ~/Videos
 
-Set up github and do hello-world walkthrough
+Set up github and do hello-world walkthrough.
+Clone me to ~/hello-world
+	$ mkdir hello-world && cd hello-world
+	$ git clone https://github.com/quaternian/hello-world.git
