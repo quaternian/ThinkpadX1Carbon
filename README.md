@@ -18,5 +18,6 @@ Installed VLC and some movies for watching
 
 Set up github and do hello-world walkthrough.
 Clone me to ~/hello-world
+
 	$ mkdir hello-world && cd hello-world
 	$ git clone https://github.com/quaternian/hello-world.git
